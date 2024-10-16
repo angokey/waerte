@@ -1,14 +1,13 @@
-title: DjangoCon Europe
-url: "https://2023.djangocon.eu"
+title: 德国瓦尔特WALTER刀具
+url: "https://walter.daojuz.com"
 author: DjangoCon Europe
 description: |
-  DjangoCon Europe 2023 conference will take place in Edinburgh, Scotland.
-  from May 29th - June 2nd 2023!
-enforce_ssl: "2023.djangocon.eu"
+  德国瓦尔特WALTER数控刀具-专业提供用于铣削、车削、切槽、钻孔和螺纹加工的精密刀具!
+enforce_ssl: "walter.daojuz.com"
 relative_permalinks: false
 permalink: news/:title/ # permalink: date
-timezone: Europe/London
-conf_year: 2023
+timezone: Asia/Shanghai
+conf_year: 2024
 
 include:
   - _pages
@@ -115,10 +114,10 @@ defaults:
       sitemap: false
 
 # Emails
-conduct_email: "conduct@djangocon.eu"
-contact_us_email: "2023@djangocon.eu"
-content_email: "content@djangocon.eu"
-sponsors_email: "sponsors@djangocon.eu"
+conduct_email: "angokey@gmail.com"
+contact_us_email: "angokey@gmail.com"
+content_email: "angokey@gmail.com"
+sponsors_email: "angokey@gmail.com"
 
 # Links
 cfp_application: "https://pretalx.com/djangocon-europe-2023/cfp"
